@@ -1,0 +1,12 @@
+{
+  "Estudiante_1": ["Curso_A", "Curso_B", "Curso_C"],
+  "Estudiante_2": ["Curso_A", "Curso_D"],
+  "Estudiante_3": ["Curso_B", "Curso_D"],
+  "Estudiante_4": ["Curso_B", "Curso_E"],
+  "Estudiante_5": ["Curso_C", "Curso_E"],
+  "Estudiante_6": ["Curso_C", "Curso_F"],
+  "Estudiante_7": ["Curso_A", "Curso_F"],
+  "Estudiante_8": ["Curso_A", "Curso_G"],
+  "Estudiante_9": ["Curso_D", "Curso_E"],
+  "Estudiante_10": ["Curso_F", "Curso_G"]
+}

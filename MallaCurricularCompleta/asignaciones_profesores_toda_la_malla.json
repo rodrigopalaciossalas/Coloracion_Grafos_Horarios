@@ -1,0 +1,85 @@
+{
+  "--- Rama: CS ---": [],
+  "Juan Pérez Soto": [
+    "Compiladores",
+    "Teoría de la Computación",
+    "Programación Avanzada",
+    "Arquitectura de Computadores"
+  ],
+  "Ana García León": [
+    "Algoritmos y Estructuras de Datos",
+    "Sistemas Operativos",
+    "Redes y Comunicación"
+  ],
+  "Carlos Ruiz Rivas": [
+    "Bases de Datos I",
+    "Ingeniería de Software I",
+    "Ciencia de la computación"
+  ],
+  "Sofía Fernlabández Vega": [
+    "Inteligencia Artificial",
+    "Computación Gráfica",
+    "Interacción Humano-Computador",
+    "Programación de videojuegos"
+  ],
+  "Miguel López Cabrera": [
+    "Seguridad en Computación",
+    "Bases de Datos II",
+    "Desarrollo Basado en Plataformas"
+  ],
+  "Laura Díaz Ramos": [
+    "Cloud Computing",
+    "Computación Paralela y Distribuida",
+    "Big Data"
+  ],
+  "Ricardo Sánchez Zúñiga": [
+    "Sistemas de Información",
+    "Tópicos en Inteligencia Artificial",
+    "Tópicos en Computación Gráfica"
+  ],
+  "--- Rama: MATH_LOGIC ---": [],
+  "María González Mena": [
+    "Matemática I",
+    "Cálculo I",
+    "Física Computacional"
+  ],
+  "José Hernández Aguilar": [
+    "Matemática II",
+    "Cálculo II",
+    "Análisis Numérico"
+  ],
+  "Valeria Martínez Torres": [
+    "Estructuras discretas I",
+    "Estructuras discretas II",
+    "Matemática Aplicada a la Computación"
+  ],
+  "Diego Rodríguez Campos": [
+    "Estadística y Probabilidades",
+    "Teoría de Grafos",
+    "Criptografía"
+  ],
+  "--- Rama: HUMANITIES_GENERAL ---": [],
+  "Andrea Pérez Salazar": [
+    "Introducción a la vida universitaria",
+    "Comunicación",
+    "Metodología del estudio"
+  ],
+  "Manuel Martín Guzmán": [
+    "Introducción a la filosofía",
+    "Apreciación musical",
+    "Persona, matrimonio y familia"
+  ],
+  "Gabriela Jiménez Alonso": [
+    "Antropología Filosófica y Teológica",
+    "Ética Profesional",
+    "Liderazgo"
+  ],
+  "Fernando Romero Navarro": [
+    "Apreciación Literaria",
+    "Oratoria"
+  ],
+  "Isabella Vega Soto": [
+    "Teología Moral",
+    "Análisis de la Realidad Peruana"
+  ]
+}
